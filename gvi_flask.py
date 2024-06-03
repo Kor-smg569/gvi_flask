@@ -181,6 +181,10 @@
 # if __name__ == '__main__':
 #     app.run(host='0.0.0.0', debug=True, port=8080)
 
+# backup & old version code
+
+#########################################################################################################################################
+
 
 from flask import Flask, request, jsonify, send_file
 from flask_cors import CORS
